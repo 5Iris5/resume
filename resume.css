@@ -22,15 +22,16 @@ a:visited{
 /*personal*/
 main{
 	display:flex;
-	width:554px;
+	width:570px;
 	border:15px inset #ccffcc;
 	margin:20px auto;
 }
 main aside{
 	color:white;
+	width:160px;
 	background-color:#989898;
 	padding:15px;
-	column-width: 200px;  /*指定列宽*/
+	/*column-width: 200px;  指定列宽*/
 	text-align:center;
 }
 main aside img{
@@ -43,16 +44,18 @@ main aside dt,dd{
 	text-align:left
 }
 /*进度条*/
-main aside dl .probar .progress{
-	width:120px;
-	background:#ddd;
-	display:inline-block;
-	float:right;
+main aside dl .probar{
+	position: relative;
 }
-main aside dl .probar::after{
-	content:'';
-	display:block;
-	clear:both;
+main aside dl .probar .progress{
+	width:80px;
+	background:#ddd;
+	display: inline-block;
+	position:absolute;
+	left:80px;
+	right:0px;
+	top:4.8px;
+	bottom:0;
 }
 main aside dl dd .progress .curRate{
 	width:95%;
@@ -90,3 +93,4 @@ main article dl #etr{
 	margin:0px;
 	text-align:center;
 }
+
