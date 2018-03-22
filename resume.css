@@ -14,10 +14,11 @@ a{
 	text-decoration:none;
 }
 a:link{
-	color:#a8a8a8;
+	/*color:#a8a8a8;*/
+	color:#808080;
 }
 a:visited{
-	color:#808080;
+	color:#000000;
 }
 /*personal*/
 main{
@@ -87,6 +88,9 @@ main article{
 	padding:15px;
 }
 main article dl .intr{
+	color:#808080;
+}
+main article dl .intr a{
 	color:#808080;
 }
 main article dl #etr{
