@@ -16,12 +16,12 @@
 * 日历UI组件
 * 轮播组件
 ## 作品
-* [Vue.js实现微信界面](https://5iris5.github.io/WeChat/wechat.html)
+* [Vue.js实现微信界面](https://5iris5.github.io/WeChat/wechat.html)<br>
 1.技术栈：vue.js+mint-ui<br>
 2.实现功能：<br>
-模拟出完整微信界面
-底部选项卡，点击不同按钮会切换显示对应页面<br>
-通讯录页面可由右侧索引导航快速定位到相应的内容<br>
+  模拟出完整微信界面
+  底部选项卡，点击不同按钮会切换显示对应页面<br>
+  通讯录页面可由右侧索引导航快速定位到相应的内容<br>
 * 微信小程序之电影网站开发
 * Node.js开发爬虫工具找靠谱房源
 * vue2.0+node.js+mongodb打造全栈商城
