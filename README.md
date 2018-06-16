@@ -11,7 +11,7 @@
 * 技术博客：https://www.jianshu.com/u/b15995b4965b
 * github：https://github.com/5Iris5
 * 期望薪资：8-18K
-* 期望城市：上海/深圳
+* 期望城市：上海/深圳/长沙
 ## 开源项目
 * 日历UI组件
 * 轮播组件
